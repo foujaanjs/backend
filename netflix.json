@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Stranger Things",
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "release_year": 2016,
+    "seasons": 4
+  },
+  {
+    "title": "Money Heist",
+    "genre": ["Crime", "Thriller"],
+    "release_year": 2017,
+    "seasons": 5
+  },
+  {
+    "title": "Squid Game",
+    "genre": ["Drama", "Thriller"],
+    "release_year": 2021,
+    "seasons": 1
+  },
+  {
+    "title": "Breaking Bad",
+    "genre": ["Crime", "Drama"],
+    "release_year": 2008,
+    "seasons": 5
+  },
+  {
+    "title": "The Witcher",
+    "genre": ["Action", "Fantasy", "Drama"],
+    "release_year": 2019,
+    "seasons": 3
+  }
+]
